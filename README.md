@@ -53,5 +53,3 @@ Built with a clean UI, real-time calculations, and scalable backend architecture
 
 ---
 
-## 📂 Project Structure
-
