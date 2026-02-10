@@ -1,36 +1,57 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 💰 Finance Tracker
 
-## Getting Started
+A modern full-stack **Finance Tracker** web application to track income, expenses, and spending categories with interactive charts and date-based analytics.
 
-First, run the development server:
+Built with a clean UI, real-time calculations, and scalable backend architecture.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🚀 Features
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- 📊 **Dashboard Overview**
+  - Remaining balance
+  - Total income & expenses
+  - Percentage change from last period
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- 🗓 **Date Range Filtering**
+  - Custom range selection
+  - Compare with previous period automatically
 
-## Learn More
+- 📈 **Interactive Charts**
+  - Area chart for daily income & expenses
+  - Pie chart for category-wise spending
+  - Radar & Radial charts for visual insights
 
-To learn more about Next.js, take a look at the following resources:
+- 🏷 **Category Breakdown**
+  - Top spending categories
+  - “Other” aggregation for cleaner insights
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- 🔐 **Authentication**
+  - Secure user authentication using Clerk
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- ⚡ **Fast & Scalable Backend**
+  - Serverless APIs with Hono
+  - PostgreSQL database with Drizzle ORM
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 🛠 Tech Stack
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+### Frontend
+- **Next.js (App Router)**
+- **TypeScript**
+- **Tailwind CSS**
+- **Recharts**
+- **React Query**
+- **Shadcn/UI**
+
+### Backend
+- **Hono**
+- **Drizzle ORM**
+- **PostgreSQL (Neon)**
+- **Clerk Authentication**
+
+---
+
+## 📂 Project Structure
+
