@@ -6,6 +6,13 @@ Built with a clean UI, real-time calculations, and scalable backend architecture
 
 ---
 
+## 🌐 Live Demo
+
+👉 **Live Application:**  
+https://finance-tracker-pi-smoky.vercel.app
+
+---
+
 ## 🚀 Features
 
 - 📊 **Dashboard Overview**
@@ -52,4 +59,6 @@ Built with a clean UI, real-time calculations, and scalable backend architecture
 - **Clerk Authentication**
 
 ---
+
+
 
