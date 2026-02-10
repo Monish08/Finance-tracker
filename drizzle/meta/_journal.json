@@ -1,0 +1,34 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1770446626967,
+      "tag": "0000_unique_tyger_tiger",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1770447172866,
+      "tag": "0001_dark_zodiak",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1770479291545,
+      "tag": "0002_lowly_expediter",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1770483675920,
+      "tag": "0003_tired_masked_marvel",
+      "breakpoints": true
+    }
+  ]
+}
